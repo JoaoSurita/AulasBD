@@ -1,0 +1,1 @@
+Nos prints no Mongo Shell, os comandos estão com as linhas quebradas, pois eu digitei o comando no VS Code e copiei e colei no Mongo Shell 
